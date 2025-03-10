@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recipeSample/static/css/main.324d15fc.css",
+    "main.js": "/recipeSample/static/js/main.c55df276.js",
+    "static/media/coolChefPicture.png": "/recipeSample/static/media/coolChefPicture.353997cb4c85db7b3286.png",
+    "index.html": "/recipeSample/index.html",
+    "main.324d15fc.css.map": "/recipeSample/static/css/main.324d15fc.css.map",
+    "main.c55df276.js.map": "/recipeSample/static/js/main.c55df276.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.324d15fc.css",
+    "static/js/main.c55df276.js"
+  ]
+}
